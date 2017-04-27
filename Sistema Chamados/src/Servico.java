@@ -1,0 +1,4 @@
+
+public enum Servico {
+	HARDWARE, APLICACAO, INTERNET, INFRAESTRUTURA;
+}
