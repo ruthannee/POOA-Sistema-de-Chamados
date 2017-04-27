@@ -7,6 +7,7 @@ public class DataHora {
 	private Date hora;
 	
 	public DataHora(Date data, Date hora) {
+		
 		this.data = data;
 		this.hora = hora;
 		String dateString = data+" "+hora;
